@@ -1,6 +1,6 @@
 # Olympics Analysis Dashboard with Power BI
 
-[![Olympics Analysis Dashboard](https://github.com/SuryaR08/Olympics-Analysis-Dashboard/blob/main/olym.png)](https://app.powerbi.com/links/ifvoA_90w8?ctid=70ad6609-70d8-4962-a379-3581f839202a&pbi_source=linkShare)
+[![Olympics Analysis Dashboard](https://github.com/SuryaR08/Olympics-Analysis-Dashboard/blob/main/olym.png)](https://suryar08.github.io/Olympics-Analysis-Dashboard/)
 
 Welcome to the Olympics Analysis Dashboard project! This interactive Power BI dashboard provides in-depth analysis of Olympic data from 1900 to 2020. Utilizing an open-source dataset, the dashboard offers insightful visualizations and interactive features to explore historical trends, athlete performances, country statistics, and more.
 
